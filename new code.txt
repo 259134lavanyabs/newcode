@@ -1,0 +1,1 @@
+Hello world c code its just use the printf of statement to display the output
